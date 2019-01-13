@@ -18,4 +18,4 @@
 
 - [vrm2gltf](/vrm2gltf) : VRoid에서 Export된 .vrm 파일을 .gltf로 변환합니다.
 - [30MinTemplate](/_template) : 새로운 스크립트를 만들 때 사용합니다.
-- [ffmpeg-commands][/ffmpeg-commands] : 
+- [ffmpeg-commands](/ffmpeg-commands) : 자주 사용하는 ffmpeg 명령어 모음
