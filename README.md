@@ -8,7 +8,14 @@
 - 현실에서 자동사냥을 돌려봅시다.
 - 에제를 동봉합시다.
 
+## 새로운 폴더 만들기
+```
+30MinTemplate.bat <dir name>
+```
+![image](https://user-images.githubusercontent.com/7877313/51082821-0333e300-1752-11e9-8cf1-8908d923ea88.png)
+
 ## 목록
 
 - [vrm2gltf](/vrm2gltf) : VRoid에서 Export된 .vrm 파일을 .gltf로 변환합니다.
-- (ToDo) 30MinScript 템플릿 생성기
+- [30MinTemplate](/_template) : 새로운 스크립트를 만들 때 사용합니다.
+- [ffmpeg-commands][/ffmpeg-commands] : 
